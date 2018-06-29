@@ -5,7 +5,7 @@
 > * Used Maven for dependency management
 > * Annotation Config
 
-[![Spring 5 Library](https://spring.io/img/spring-by-pivotal.png)](https://repo.spring.io/release/org/springframework/spring/5.0.7.RELEASE/){:target=_blank}
+[![Spring 5 Library](https://spring.io/img/spring-by-pivotal.png)](https://repo.spring.io/release/org/springframework/spring/5.0.7.RELEASE/)
 
 Maven File For Spring Library
 ```
