@@ -5,7 +5,7 @@
 > * Used Maven for dependency management
 > * Annotation Config
 
-[![Spring 5 Library](https://spring.io/img/spring-by-pivotal.png)](https://repo.spring.io/release/org/springframework/spring/5.0.7.RELEASE/){:target="_blank"}
+[![Spring 5 Library](https://spring.io/img/spring-by-pivotal.png)](https://repo.spring.io/release/org/springframework/spring/5.0.7.RELEASE/?target="_blank")
 
 Maven File For Spring Library
 ```
@@ -208,8 +208,8 @@ Maven File For Spring Library
 ```
 >* Either You Can USE MAVEN OR GRADLE
 
-[![MAVEN OR GRADLE LIBRARY DEPENDENCY LINK FOR ADDING LIBRARY](http://mvnrepository.com//assets/images/392dffac024b9632664e6f2c0cac6fe5-logo.png)](https://mvnrepository.com/tags/spring){:target="_blank"}
+[![MAVEN OR GRADLE LIBRARY DEPENDENCY LINK FOR ADDING LIBRARY](http://mvnrepository.com//assets/images/392dffac024b9632664e6f2c0cac6fe5-logo.png)](https://mvnrepository.com/tags/spring?target="_blank")
 
-[![UDEMY TUTORIAL LINK FOR LEARNING](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)](https://www.udemy.com/spring-hibernate-tutorial){:target="_blank"}
+[![UDEMY TUTORIAL LINK FOR LEARNING](https://www.udemy.com/staticx/udemy/images/v6/logo-coral.svg)](https://www.udemy.com/spring-hibernate-tutorial?target="_blank")
 
 The spring training tutorial link to learn from scratch.
